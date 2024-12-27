@@ -10,7 +10,7 @@ Como um polo de desenvolvimento de tecnologias e conhecimento, buscamos um enten
 
 Nosso modelo de operação baseia-se em uma metodologia própria de trabalho, que nos permite ter a agilidade para superar os desafios da pesquisa e construir a proposta de valor adequada.
 
-<hr><br>
+<hr>
 
 ### Contribua e Compartilhe 🫱🏾‍🫲🏼
 
@@ -20,7 +20,7 @@ Acreditamos firmemente que a força do código está na colaboração. Por isso,
 
 Para maiores informações sobre contribuição em nossos repositórios, acesse [aqui](link-a-ser-definido).
 
-<hr><br>
+<hr>
 
 ### Visite nossos demais canais: 🌎
 - Nosso [Website](https://ihr.tec.br/)
